@@ -1,0 +1,19 @@
+{
+    "name": "amorpro3/exprus-import-onec",
+    "description": "Module for import the expertises from 1C",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Butkov Anton",
+            "email": "amorpro3@gmail.com"
+        }
+    ],
+    "require": {
+        "league/flysystem": "1.0.45"
+    },
+    "autoload": {
+        "psr-4" : {
+            "" : "."
+        }
+    }
+}
